@@ -1,1 +1,23 @@
+img{
+  width:900x;
+  height:300px;
+  display: block;
+  margin: centre;
+}
+body {
+padding: 100px 20px 100px;
+background-color:yellow;
+margin:0;
+  
+}
 
+p {
+ font-size: 14;
+ color: blue;
+  
+}
+
+div {
+border: 3px solid green;
+color:red;
+margin:0 auto;
